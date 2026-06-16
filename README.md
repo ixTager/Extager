@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Extager
-- 👀 I’m interested in playing in video games
-- 🌱 I’m currently learning backend-development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/dmitriy_develop
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: i so much like pizza
+👋 Hi! My name is @ixTager and I'm a beginner Java developer. I used to specialize in web development, but later decided to switch to Java development. 
+
+🔗 To contact me, you can view the pinned links; they are still up-to-date.
 
 <!---
 Extager/Extager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
