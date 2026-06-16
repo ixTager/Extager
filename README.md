@@ -1,4 +1,4 @@
-### 👋 Hi! My name is Dmitry @ixTager and I'm a beginner Java developer. I used to specialize in web development, but later decided to switch to Java development. 
+### 👋 Hi! My name is Dmitriy @ixTager and I'm a beginner Java developer. I used to specialize in web development, but later decided to switch to Java development. 
 
 ### 🔗 To contact me, you can view the pinned links; they are still up-to-date.
 
